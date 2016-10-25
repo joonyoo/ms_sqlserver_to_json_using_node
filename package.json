@@ -1,0 +1,15 @@
+{
+  "name": "pullData",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joon Yoo",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.3.1",
+    "seriate": "^0.7.1"
+  }
+}
